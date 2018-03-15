@@ -1,4 +1,4 @@
-CC		= gcc
+CC	= gcc
 CFLAGS	= -g3 -Wall
 EXEC 	= fwf
 OBJS 	= args.o files.o list.o main.o mem.o
